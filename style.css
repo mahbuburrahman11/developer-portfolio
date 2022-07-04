@@ -10,6 +10,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .first{
     width: 50%;
@@ -31,4 +32,15 @@ width: 80%;
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
     
+}
+.dream-big{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+p{
+    width: 80%;
+}
+h2{
+    color: aqua;
 }
